@@ -1,0 +1,9 @@
+ 
+"-libdirs" 
+"C:\projects\WebGoat.NET_2013_converted\WebGoat\bin\log4net.dll;C:\projects\WebGoat.NET_2013_converted\WebGoat\bin\Mono.Data.Sqlite.dll;C:\projects\WebGoat.NET_2013_converted\WebGoat\bin\mysql.data.dll;C:\projects\WebGoat.NET_2013_converted\WebGoat\bin\mysql.data.entity.dll;C:\projects\WebGoat.NET_2013_converted\WebGoat\bin\mysql.visualstudio.dll" 
+"-libdirs" 
+"C:\projects\WebGoat.NET_2013_converted\WebGoat\bin\mysql.web.dll;C:\projects\WebGoat.NET_2013_converted\WebGoat\lib\log4net.dll;C:\projects\WebGoat.NET_2013_converted\WebGoat\lib\Mono.Data.Sqlite.dll;C:\projects\WebGoat.NET_2013_converted\WebGoat\lib\mysql.data.cf.dll;C:\projects\WebGoat.NET_2013_converted\WebGoat\lib\mysql.data.dll" 
+"-libdirs" 
+"C:\projects\WebGoat.NET_2013_converted\WebGoat\lib\mysql.data.entity.dll;C:\projects\WebGoat.NET_2013_converted\WebGoat\lib\mysql.visualstudio.dll;C:\projects\WebGoat.NET_2013_converted\WebGoat\lib\mysql.web.dll;C:\projects\WebGoat.NET_2013_converted\WebGoat\lib\System.Data.SQLite.dll" 
+"-Dcom.fortify.sca.fileextensions.sql=PLSQL" 
+"C:\projects\WebGoat.NET_2013_converted" 
